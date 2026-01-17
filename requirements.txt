@@ -1,2 +1,2 @@
-python>=3.8
-tk
+# No external dependencies required
+# Uses built-in tkinter library
